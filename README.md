@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Alexander</h1>
-<h3 align="center">A passionate C\C++ Developer</h3>
+<h2 align="left">Hi 👋, I'm Alexander</h2>
+<h3 align="left">A passionate C\C++ Developer</h3>
 
 - 🌱 I’m currently learning **Rust language**
 
