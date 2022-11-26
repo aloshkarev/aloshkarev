@@ -21,8 +21,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/aloshkarev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aloshkarev" /></a></p><br><br>
-
-</br>
+<p></p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aloshkarev)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aloshkarev&show_icons=true&count_private=true)  
